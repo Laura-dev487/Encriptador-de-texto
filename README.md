@@ -1,7 +1,7 @@
 Este proyecto forma parte de los Challenges ONE
 En este primer desafío trabajé en una aplicación que encripta textos
 
-Las "llaves" de encriptación que utilizaremos son las siguientes:
+Las "llaves" de encriptación utilizadas son las siguientes:
 La letra "e" es convertida para "enter"
 La letra "i" es convertida para "imes"
 La letra "a" es convertida para "ai"
